@@ -4,7 +4,7 @@
 
 ---
 
-**🧠 About**
+**🧠 About**                                                                                                                                                                
 **Debug Aura** is a terminal-based reverse debugger written in C. It enables developers and students to step forward and backward through a program's execution, visualize variable states, and restore previous states using undo/redo. With built-in support for multiple data types, session saving/loading, colorized output, and value search, it provides intuitive debugging directly in the console.
 
 ---
